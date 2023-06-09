@@ -1,0 +1,53 @@
+name: SoulSMP
+version: '${project.version}'
+authors: [ Gemmerr, EliaDerDev ]
+description: SoulSMP Haupt Plugin für SoulSMP.
+main: me.gemmerr.soulsmp.SoulSMP
+api-version: 1.19
+commands:
+  commandwatcher:
+    aliases: cw
+    permission: soulsmp.commandwatcher
+  discord:
+    description: discord Command.
+    aliases: dc
+  spawn:
+    aliases: s
+  setspawn:
+    permission: soulsmp.setspawn
+  gamemode:
+    aliases: gm
+    permission: soulsmp.gamemode
+  enderchest:
+    aliases: ec
+  craft:
+    aliases: wb
+  tpa:
+  playtime:
+    aliases:
+    - pt
+    - timeplayed
+  msg:
+  reply:
+    aliases: r
+  heal:
+    permission: soulsmp.heal
+  fly:
+    permission: soulsmp.fly
+  home:
+  sethome:
+  sign:
+    permission: soulsmp.sign
+  itemname:
+    aliases: iname
+    permission: soulsmp.itemname
+  ping:
+  invsee:
+    permission: soulsmp.invsee
+    aliases: isee
+  enderchestsee:
+    permission: soulsmp.enderchestsee
+    aliases:
+      - endersee
+      - esee
+  back:
