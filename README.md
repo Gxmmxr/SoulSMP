@@ -2,6 +2,7 @@
 ![Soul Logo small](https://github.com/Gxmmxr/SoulSMP/assets/111182954/526fd0dc-56ce-42ce-a037-81b9de0a10b1)
 
 SoulSMP Base Plugin implementing a bunch of essential Commands and features.
+*The Plugin messages are made with MiniMessageAPI.*
 
 # Commands
 -   /commandwatcher (command spy)
