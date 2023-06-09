@@ -1,0 +1,2 @@
+# SoulSMP
+SoulSMP Base Plugin
